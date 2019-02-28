@@ -1,1 +1,1 @@
-postgis-2.5.1
+postgis 2.5.1
